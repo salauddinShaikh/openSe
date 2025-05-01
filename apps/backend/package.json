@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "start": "node dist/indserverex.js",
+    "dev": "ts-node-dev --respawn src/server.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.1.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "~5.7.2",
+    "vitest": "^3.1.2"
+  }
+}
