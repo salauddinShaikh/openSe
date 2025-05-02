@@ -3,10 +3,6 @@ import { render, screen } from "@testing-library/react";
 import CardList from "./CardList";
 
 describe("CardList", () => {
-  it.skip("matches snapshot", () => {
-    const { container } = render(<CardList fetchCourses={() => {}} />);
-    expect(container).toMatchSnapshot();
-  });
   it("should call courses api", () => {
     const course = {
       name: "Name",

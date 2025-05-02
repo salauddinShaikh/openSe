@@ -1,4 +1,4 @@
-import {useEffect, useState} from 'react'
+import { useEffect, useState } from "react";
 
 interface Course {
   name: string;
@@ -12,16 +12,20 @@ interface CardListProps {
 }
 
 const CardList = ({ fetchCourses }: CardListProps) => {
-  const [courses, setCourses] = useState<Course[]>()
+  const [courses, setCourses] = useState<Course[]>([]);
 
   useEffect(() => {
-    const courses = fetchCourses()
-    setCourses(courses)
-  }, [])
+    const courses = fetchCourses();
+    setCourses(courses);
+  }, [fetchCourses]);
 
-  return courses?.map(course => {
-    return <div data-testid="card-name">{course.name}</div>;
-  })
+  return courses.map((course, index) => {
+    return (
+      <div data-testid="card-name" key={index}>
+        {course.name}
+      </div>
+    );
+  });
 };
 
 export default CardList;
