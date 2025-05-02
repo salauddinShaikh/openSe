@@ -7,4 +7,13 @@ describe("CardList", () => {
     const { container } = render(<CardList />);
     expect(container).toMatchSnapshot();
   });
+  it("should call courses api", () => {
+    const course = {
+      name: 'Name',
+      category: 'category',
+      description: 'Description',
+      rating: 5,
+    }
+    render(<CardList fetchCourses={() => [course]} />)
+  });
 });
