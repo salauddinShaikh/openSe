@@ -7,4 +7,8 @@ app.get("/health", (_req, res) => {
   res.status(200).send("OK");
 });
 
+app.get("/courses", (_req, res) => {
+  res.status(200).json({});
+});
+
 export default app;

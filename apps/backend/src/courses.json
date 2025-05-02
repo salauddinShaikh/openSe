@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Introduction to TypeScript",
+    "description": "Learn the basics of TypeScript, a typed superset of JavaScript that scales.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg",
+    "category": "Programming"
+  },
+  {
+    "name": "React for Beginners",
+    "description": "A comprehensive guide to building user interfaces using React.",
+    "rating": 4.7,
+    "thumbnail": "https://img.freepik.com/free-photo/modern-computer-screen-with-programming-code_23-2148725010.jpg",
+    "category": "Web Development"
+  },
+  {
+    "name": "Node.js Fundamentals",
+    "description": "Understand how to build backend services using Node.js and Express.",
+    "rating": 4.4,
+    "thumbnail": "https://img.freepik.com/free-photo/technology-coding-programming-concept_53876-124041.jpg",
+    "category": "Backend"
+  },
+  {
+    "name": "CSS Mastery",
+    "description": "Deep dive into CSS for responsive and modern web design.",
+    "rating": 4.6,
+    "thumbnail": "https://img.freepik.com/free-photo/abstract-technology-background_23-2148898810.jpg",
+    "category": "Design"
+  },
+  {
+    "name": "JavaScript Data Structures",
+    "description": "Explore essential data structures in JavaScript with real-world use cases.",
+    "rating": 4.3,
+    "thumbnail": "https://img.freepik.com/free-photo/javascript-programming-code_23-2148725010.jpg",
+    "category": "Programming"
+  },
+  {
+    "name": "Digital Marketing 101",
+    "description": "An introduction to digital marketing strategies and tools.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/digital-marketing-concept-with-icons_23-2148884983.jpg",
+    "category": "Marketing"
+  },
+  {
+    "name": "Photography Basics",
+    "description": "Learn the fundamentals of photography, including composition and lighting.",
+    "rating": 4.6,
+    "thumbnail": "https://img.freepik.com/free-photo/photographer-taking-photo-with-dslr-camera_23-2148884983.jpg",
+    "category": "Photography"
+  },
+  {
+    "name": "Introduction to Python",
+    "description": "Start your programming journey with Python, a versatile language.",
+    "rating": 4.7,
+    "thumbnail": "https://img.freepik.com/free-photo/python-programming-language_23-2148725010.jpg",
+    "category": "Programming"
+  },
+  {
+    "name": "UI/UX Design Principles",
+    "description": "Understand the principles of user interface and user experience design.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/ui-ux-design-concept_23-2148884983.jpg",
+    "category": "Design"
+  },
+  {
+    "name": "Advanced Excel Techniques",
+    "description": "Master advanced functions and data analysis tools in Excel.",
+    "rating": 4.4,
+    "thumbnail": "https://img.freepik.com/free-photo/excel-spreadsheet-financial-analysis_23-2148884983.jpg",
+    "category": "Data Analysis"
+  },
+  {
+    "name": "Machine Learning Basics",
+    "description": "An introduction to machine learning concepts and algorithms.",
+    "rating": 4.6,
+    "thumbnail": "https://img.freepik.com/free-photo/machine-learning-concept-with-abstract-brain_23-2148884983.jpg",
+    "category": "Data Science"
+  },
+  {
+    "name": "Effective Communication Skills",
+    "description": "Enhance your communication skills for personal and professional success.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/business-people-communicating-office_23-2148884983.jpg",
+    "category": "Personal Development"
+  },
+  {
+    "name": "Project Management Essentials",
+    "description": "Learn the fundamentals of project management and planning.",
+    "rating": 4.4,
+    "thumbnail": "https://img.freepik.com/free-photo/project-management-concept-with-icons_23-2148884983.jpg",
+    "category": "Business"
+  },
+  {
+    "name": "Introduction to SQL",
+    "description": "Understand the basics of SQL for database management.",
+    "rating": 4.3,
+    "thumbnail": "https://img.freepik.com/free-photo/sql-database-concept_23-2148884983.jpg",
+    "category": "Database"
+  },
+  {
+    "name": "Creative Writing Workshop",
+    "description": "Develop your creative writing skills through guided exercises.",
+    "rating": 4.6,
+    "thumbnail": "https://img.freepik.com/free-photo/creative-writing-concept-with-notebook_23-2148884983.jpg",
+    "category": "Writing"
+  },
+  {
+    "name": "Cybersecurity Fundamentals",
+    "description": "Learn the basics of cybersecurity and how to protect digital assets.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/cybersecurity-concept-with-lock-icon_23-2148884983.jpg",
+    "category": "Security"
+  },
+  {
+    "name": "Public Speaking Mastery",
+    "description": "Overcome fear and master the art of public speaking.",
+    "rating": 4.7,
+    "thumbnail": "https://img.freepik.com/free-photo/public-speaking-concept-with-microphone_23-2148884983.jpg",
+    "category": "Personal Development"
+  },
+  {
+    "name": "Graphic Design for Beginners",
+    "description": "Start your journey in graphic design with essential tools and techniques.",
+    "rating": 4.4,
+    "thumbnail": "https://img.freepik.com/free-photo/graphic-design-concept-with-tools_23-2148884983.jpg",
+    "category": "Design"
+  },
+  {
+    "name": "Financial Literacy 101",
+    "description": "Understand personal finance, budgeting, and investing basics.",
+    "rating": 4.5,
+    "thumbnail": "https://img.freepik.com/free-photo/financial-literacy-concept-with-calculator_23-2148884983.jpg",
+    "category": "Finance"
+  },
+  {
+    "name": "Mobile App Development",
+    "description": "Learn to develop mobile applications for Android and iOS.",
+    "rating": 4.6,
+    "thumbnail": "https://img.freepik.com/free-photo/graphic-design-concept-with-tools_23-2148884983.jpg",
+    "category": "Mobile Development"
+  }
+]
