@@ -12,5 +12,7 @@ describe("CardList", () => {
     };
     render(<CardList fetchCourses={() => [course]} />);
     expect(screen.getByTestId("card-name")).toHaveTextContent("Name");
+    expect(screen.getByTestId("card-description")).toHaveTextContent("Description");
+    expect(screen.getAllByTestId('card')).toHaveLength(1)
   });
 });
