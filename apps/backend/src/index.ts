@@ -1,5 +1,6 @@
 import express from "express";
-import courses from './courses.json'
+import courses from "./courses.json";
+
 const app = express();
 app.use(express.json());
 
